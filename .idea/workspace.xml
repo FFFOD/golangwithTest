@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="825bc7ed-3c5c-4065-8333-d4cf95c6bc9d" name="Changes" comment="add SumAll1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.2.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FFFOD/golangwithTest.git",
+    "accountId": "ac0b8856-92a8-481a-b591-ba69a1a3eb48"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fJFGcovO7Wi7UWnkUnGi2ghbeG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build golangWithTests/hello.executor": "Run",
+    "Go Test.BenchmarkRepeat in golangWithTests/iteration.executor": "Run",
+    "Go Test.ExampleAdd in golangWithTests/integers.executor": "Run",
+    "Go Test.TestAdder in golangWithTests/integers.executor": "Run",
+    "Go Test.TestHello in golangWithTests/hello.executor": "Run",
+    "Go Test.TestRepeat in golangWithTests/iteration.executor": "Run",
+    "Go Test.TestSum in golangWithTests/array.executor": "Run",
+    "Go Test.TestSum/collection_of_5_numbers in golangWithTests/array.executor": "Run",
+    "Go Test.TestSumAll in golangWithTests/array.executor": "Run",
+    "Go Test.go test golangWithTests/integers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "<unknown>",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/mengye",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestSumAll in golangWithTests/array">
+    <configuration name="BenchmarkRepeat in golangWithTests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangWithTests" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golangWithTests/iteration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gobench" />
+      <pattern value="^\QBenchmarkRepeat\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRepeat in golangWithTests/iteration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangWithTests" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golangWithTests/iteration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRepeat\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum in golangWithTests/array" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangWithTests" />
+      <working_directory value="$PROJECT_DIR$/array" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golangWithTests/array" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSum\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSumAll in golangWithTests/array" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangWithTests" />
+      <working_directory value="$PROJECT_DIR$/array" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golangWithTests/array" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSumAll\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum/collection_of_5_numbers in golangWithTests/array" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangWithTests" />
+      <working_directory value="$PROJECT_DIR$/array" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golangWithTests/array" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSum\E$/^\Qcollection_of_5_numbers\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSumAll in golangWithTests/array" />
+        <item itemvalue="Go Test.TestSum/collection_of_5_numbers in golangWithTests/array" />
+        <item itemvalue="Go Test.TestSum in golangWithTests/array" />
+        <item itemvalue="Go Test.BenchmarkRepeat in golangWithTests/iteration" />
+        <item itemvalue="Go Test.TestRepeat in golangWithTests/iteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="origin" />
+    <MESSAGE value="f" />
+    <MESSAGE value="add SumAll" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add SumAll1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SumAll1" />
+  </component>
+  <component name="VgoProject">
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="'https://goproxy.cn,direct'" />
+      </map>
+    </environment>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/golangWithTests$TestSum_collection_of_5_numbers_in_golangWithTests_array.out" NAME="TestSum/collection_of_5_numbers in golangWithTests/array Coverage Results" MODIFIED="1713517188194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
